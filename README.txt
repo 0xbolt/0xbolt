@@ -1,4 +1,5 @@
-Interests: 
+Interests:
+
 - Computer Graphics
 - Machine Learning
 - Computer Systems
